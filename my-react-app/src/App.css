@@ -1,0 +1,18 @@
+body
+{
+    background-color: bisque;
+    color: white;
+    padding: 30px;
+    font-family: sans-serif;
+    text-align: center;
+}
+label
+{
+    color:black;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+input
+{
+    margin: 10px;
+}
